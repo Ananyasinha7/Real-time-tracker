@@ -1,4 +1,4 @@
-"# Real-time-tracker" 
+# Real-time-tracker 
 # Description
 This is a real-time location tracking application built using Node.js, Express, Socket.io, and Leaflet.js. The app enables multiple users to share their geographic location in real-time, which is displayed on an interactive map. Each user’s location is represented by a unique marker, and markers update dynamically as users move.
 
