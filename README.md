@@ -10,11 +10,13 @@ User Disconnect Handling: When a user disconnects, their marker is removed from 
 
 # Tech Stack
 Backend:
-Node.js
-Express.js
-Socket.io for real-time communication
+Node.js,
+Express.js,
+Socket.io for real-time communication.
+
 Frontend:
-EJS for templating
-Leaflet.js for map rendering
-HTML, CSS, and JavaScript
+EJS for templating,
+Leaflet.js for map rendering,
+HTML, CSS, and JavaScript.
+
 Map Data: OpenStreetMap tiles are used to display the interactive map.
